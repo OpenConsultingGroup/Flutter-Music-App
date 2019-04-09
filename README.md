@@ -1,7 +1,7 @@
 # Bungee
 
 A Flutter musical app built with nodejs and firebase.
-[Play Store Link](https://play.google.com/store/apps/details?id=com.blackhole.soundwave)
+
 
 ![20190107_223501_1.gif](https://www.dropbox.com/s/9caxb244o4n255b/20190107_223501_1.gif?dl=0&raw=1)
 
