@@ -1,4 +1,5 @@
 # Bungee
+<img src="Banner.png" width="60%" height="60%" />
 
 A Flutter musical app built with nodejs and firebase.
 
