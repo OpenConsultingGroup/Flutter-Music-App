@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784157732504",
+    "firebase_url": "https://funkmusic-4387d.firebaseio.com",
+    "project_id": "funkmusic-4387d",
+    "storage_bucket": "funkmusic-4387d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784157732504:android:4a02b034b542eb23",
+        "android_client_info": {
+          "package_name": "com.blackhole.soundwave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784157732504-upears5ba27c7r3qbmq7qhc6hkdm2jjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-UXbBbmxC89KDXHmg7LGfiQUooHv2bgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784157732504-upears5ba27c7r3qbmq7qhc6hkdm2jjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
