@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       title: 'Music',
       theme: new ThemeData(
-          brightness: widget.brightness,
+          brightness: Brightness.dark,
           fontFamily: "GoogleSans",
           textTheme: TextTheme(
             headline: TextStyle(fontWeight: FontWeight.w600, fontSize: 18.0),
@@ -66,7 +66,7 @@ class _MyAppState extends State<MyApp> {
               fontSize: 18.0,
             ),
           )),
-      home: widget.startScreen ? SoundWave() : DisclaimerScreen(),
+      home: SoundWave(),
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
     );

@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
@@ -67,6 +69,7 @@ class _HomeScreenState extends State<HomeScreen>
     return FutureBuilder(
       future: future,
       builder: (context, snapshot) {
+        log("Snapshot $snapshot");
         if (!snapshot.hasData ||
             snapshot.connectionState == ConnectionState.waiting) {
           return Center(child: CircularProgressIndicator());
