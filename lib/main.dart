@@ -8,7 +8,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:share/share.dart';
 import 'package:soundwave/database.dart';
-import 'package:soundwave/disclaimer_screen.dart';
 import 'package:soundwave/music/song.dart';
 import 'package:soundwave/home_screen.dart';
 import 'package:soundwave/search_screen.dart';
