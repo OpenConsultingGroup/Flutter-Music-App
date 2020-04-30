@@ -47,6 +47,3 @@ Following is list of important wigdets used in app.(Can't list all 😁)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-Its because of my mummy's motivation,god's blessing and family'support that I am able to complete this project.Thank you all my teachers and friends. 
