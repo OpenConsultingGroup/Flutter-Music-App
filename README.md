@@ -47,3 +47,11 @@ Following is list of important wigdets used in app.(Can't list all 😁)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## How can I support developers?
+- Star our GitHub repo
+- Create pull requests, submit bugs, suggest new features or documentation updates
+
+
+## Can I hire you guys?
+Yes! We are available for hire. Visit [our homepage](https://ocg.technology/) or simply leave us a note to contact@ocg.technology. We will be happy to work with you!
+
